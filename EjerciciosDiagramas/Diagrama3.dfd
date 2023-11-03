@@ -1,0 +1,27 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+2
+8
+LMinutos
+1
+1
+9
+Capacidad
+2
+50
+6
+1
+5
+horas
+30
+(Capacidad/(LMinutos/1000))/60
+4
+1
+57
+"Las horas que se tarda en llenar el tanque son:" , horas
+1

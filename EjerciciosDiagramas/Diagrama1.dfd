@@ -1,0 +1,33 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+23
+"Ingrese el primer año"
+5
+1
+3
+año
+4
+1
+21
+"Ingrese segundo año"
+5
+1
+4
+año2
+6
+1
+9
+resultado
+13
+(año-año2)*12
+4
+1
+41
+"Los meses transcurridos son:", resultado
+1
