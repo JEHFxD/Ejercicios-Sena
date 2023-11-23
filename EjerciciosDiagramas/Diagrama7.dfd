@@ -1,0 +1,49 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+43
+"Insertar la coordenada X del primer punto"
+5
+1
+2
+x1
+4
+1
+43
+"Insertar la coordenada Y del primer punto"
+5
+1
+2
+y1
+4
+1
+44
+"Insertar la coordenada X del segundo punto"
+5
+1
+2
+x2
+4
+1
+44
+"Insertar la coordenada Y del segundo punto"
+5
+1
+2
+y2
+6
+1
+9
+distancia
+39
+SQRT((x1-x2)*(x1-x2))+((y1-y2)*(y1-y2))
+4
+1
+24
+"Distancia: ", distancia
+1

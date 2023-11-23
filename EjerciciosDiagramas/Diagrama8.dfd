@@ -1,0 +1,31 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+38
+"Inserte la cantidad de tela (metros)"
+5
+1
+5
+Metro
+6
+1
+13
+MetrosPulgada
+6
+0.0254
+6
+1
+8
+Pulgadas
+19
+Metro/MetrosPulgada
+4
+1
+50
+"Las cantidad de tela en pulgadas es:  ", Pulgadas
+1

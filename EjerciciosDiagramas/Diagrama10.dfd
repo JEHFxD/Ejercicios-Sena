@@ -1,0 +1,33 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+41
+"Inserte la velocidad en bicicleta (k/m)"
+5
+1
+9
+velocidad
+4
+1
+56
+"Inserte la distancia entre ambas ciudades (kilometros)"
+5
+1
+9
+distancia
+6
+1
+5
+horas
+19
+distancia/velocidad
+4
+1
+57
+"Te tardas ", horas, " horas en llegar a la otra ciudad."
+1

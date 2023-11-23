@@ -1,0 +1,49 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+40
+"Inserte el resultado del primer examen"
+5
+1
+10
+resultado1
+4
+1
+41
+"Inserte el resultado del segundo examen"
+5
+1
+10
+resultado2
+4
+1
+40
+"Inserte el resultado del tercer examen"
+5
+1
+10
+resultado3
+4
+1
+40
+"Inserte el resultado del cuarto examen"
+5
+1
+10
+resultado4
+6
+1
+8
+promedio
+47
+(resultado1+resultado2+resultado3+resultado4)/4
+4
+1
+22
+"Promedio: ", promedio
+1

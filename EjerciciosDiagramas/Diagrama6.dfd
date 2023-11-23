@@ -1,0 +1,31 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+52
+"Insertar la cantidad de litros de leche producidos"
+5
+1
+6
+Litros
+6
+1
+11
+LitrosGalon
+5
+3.785
+6
+1
+7
+Galones
+20
+(Litros/LitrosGalon)
+4
+1
+40
+"Galones de leche producidos: ", Galones
+1

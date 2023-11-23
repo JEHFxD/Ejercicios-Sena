@@ -1,0 +1,46 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+60
+"Inserte la cantidad de horas pasadas en el estacionamiento"
+5
+1
+5
+horas
+7
+0
+1
+27
+abs((trunc(horas)-horas))>0
+13
+6
+1
+5
+horas
+32
+horas + 1 - (horas-trunc(horas))
+13
+4
+1
+27
+"Inserte el cobro por hora"
+5
+1
+10
+cobroHoras
+6
+1
+5
+cobro
+16
+horas*cobroHoras
+4
+1
+22
+"Cobro total: ", cobro
+1
