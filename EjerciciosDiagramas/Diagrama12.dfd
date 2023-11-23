@@ -1,0 +1,41 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+27
+"inserte el numero de dias"
+5
+1
+4
+dias
+4
+1
+28
+"inserte el costo del hotel"
+5
+1
+10
+costohotel
+4
+1
+28
+"inserte costo de la comida"
+5
+1
+11
+costocomida
+6
+1
+12
+pesosdiarios
+3
+100
+4
+1
+65
+"el monto total es:", (costohotel+costocomida+pesosdiarios) *dias
+1

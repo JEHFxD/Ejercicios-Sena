@@ -1,0 +1,25 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+27
+"Inserte el sueldo mensual"
+5
+1
+6
+sueldo
+6
+1
+6
+ahorro
+2
+15
+4
+1
+52
+"el ahorrro es:",((sueldo*12) / 100)*((ahorro*4)*12)
+1

@@ -1,0 +1,122 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+20
+"Nombre del cliente"
+5
+1
+13
+nombreCliente
+4
+1
+36
+"Inserte el precio de las sandalias"
+5
+1
+14
+precioSandalia
+4
+1
+32
+"Inserte el precio de los tenis"
+5
+1
+11
+precioTenis
+4
+1
+36
+"Inserte el precio de los mocasines"
+5
+1
+15
+precioMocasines
+4
+1
+45
+"Insertar la cantidad de sandalias compradas"
+5
+1
+17
+cantidadsandalias
+4
+1
+41
+"Insertar la cantidad de tenis comprados"
+5
+1
+13
+cantidadtenis
+4
+1
+45
+"Insertar la cantidad de mocasines comprados"
+5
+1
+17
+cantidadmocasines
+6
+1
+10
+valorTotal
+98
+(precioSandalia*cantidadsandalias)+(precioTenis*cantidadtenis)+(precioMocasines*cantidadmocasines)
+6
+1
+11
+valorProfit
+32
+valorTotal+((valorTotal/100)*55)
+7
+0
+1
+66
+cantidadsandalias>=1 and cantidadtenis>=1 and cantidadmocasines>=1
+4
+1
+26
+"Cliente: ", nombreCliente
+4
+1
+30
+"Valor de venta: ", valorTotal
+4
+1
+27
+ "Valor IVA: ", valorProfit
+13
+6
+1
+9
+descuento
+19
+(valorProfit/100)*8
+4
+1
+26
+"Cliente: ", nombreCliente
+4
+1
+44
+"Valor de venta sin descuento: ", valorTotal
+4
+1
+24
+"Descuento: ", descuento
+6
+1
+14
+valorDescuento
+21
+valorProfit-descuento
+4
+1
+39
+"Valor con descuento: ", valorDescuento
+13
+1

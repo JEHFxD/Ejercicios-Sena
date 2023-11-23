@@ -1,0 +1,33 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+32
+"inserte duración de la llamada"
+5
+1
+8
+duración
+4
+1
+30
+"inserte costo de los minutos"
+5
+1
+5
+costo
+6
+1
+5
+total
+14
+duración*costo
+4
+1
+35
+"el total de la llamada es:", total
+1

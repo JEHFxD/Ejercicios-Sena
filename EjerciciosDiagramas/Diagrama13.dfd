@@ -1,0 +1,131 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+32
+"inserte la hora del nacimiento"
+5
+1
+4
+hora
+4
+1
+27
+"inserte dia de nacimiento"
+5
+1
+3
+dia
+4
+1
+30
+"inserte semana de nacimiento"
+5
+1
+6
+semana
+4
+1
+27
+"inserte mes de nacimiento"
+5
+1
+3
+mes
+4
+1
+27
+"inserte año de nacimiento"
+5
+1
+3
+año
+4
+1
+21
+"inserte hora actual"
+5
+1
+10
+horaactual
+4
+1
+20
+"inserte dia actual"
+5
+1
+9
+diaactual
+4
+1
+20
+"inserte mes actual"
+5
+1
+9
+mesactual
+4
+1
+23
+"inserte semana actual"
+5
+1
+12
+semanaactual
+4
+1
+20
+"inserte año actual"
+5
+1
+9
+añoactual
+6
+3
+4
+años
+13
+añoactual-año
+5
+meses
+40
+(mesactual+años*12) + abs(mesactual-mes)
+7
+semanas
+36
+(meses*4) + abs(semanaactual-semana)
+6
+2
+4
+dias
+38
+((meses*4) / 7) + abs(dia - diaactual)
+5
+horas
+32
+(dias*12) + abs(hora-horaactual)
+4
+1
+33
+"años desde el nacimiento;", años
+4
+1
+35
+"meses desde el nacimiento;", meses
+4
+1
+36
+"semanas desde nacimiento:", semanas
+4
+1
+30
+"dias desde nacimiento:", dias
+4
+1
+35
+"horas desde el naicmiento:", horas
+1

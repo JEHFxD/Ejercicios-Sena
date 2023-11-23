@@ -1,0 +1,33 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+29
+"inserte el precio del hotel"
+5
+1
+11
+preciohotel
+4
+1
+37
+"inserte tiempo(dias) que se hospedó"
+5
+1
+6
+tiempo
+6
+1
+10
+costototal
+18
+preciohotel*tiempo
+4
+1
+32
+"el costo total es:", costototal
+1
