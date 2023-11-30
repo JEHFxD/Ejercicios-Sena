@@ -1,0 +1,30 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+16
+"ingrese un año"
+5
+1
+4
+year
+7
+0
+1
+37
+year mod 25 = 0 or (year+1) mod 25= 0
+4
+1
+22
+"el año no es jubileo"
+13
+4
+1
+19
+"el año es jubileo"
+13
+1
